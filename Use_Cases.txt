@@ -1,1 +1,2 @@
 // Use cases of Generative AI will be published here..
+// The use cases would be focused majorly on Computer vision
